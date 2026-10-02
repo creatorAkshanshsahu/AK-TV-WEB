@@ -16,6 +16,6 @@ dependencies {
     implementation("androidx.media3:media3-exoplayer-dash:1.3.1")
     implementation("androidx.media3:media3-ui:1.3.1")
     implementation("io.coil-kt:coil:2.6.0")
-    "arm32Implementation"("org.mozilla.geckoview:geckoview-armeabi-v7a:+")
-    "arm64Implementation"("org.mozilla.geckoview:geckoview-arm64-v8a:+")
+    "arm32Implementation"("org.mozilla.geckoview:geckoview-armeabi-v7a:123.0.20240213221259")
+    "arm64Implementation"("org.mozilla.geckoview:geckoview-arm64-v8a:123.0.20240213221259")
 }
